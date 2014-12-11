@@ -1,12 +1,12 @@
 # Site settings
-title: Your awesome title
-email: your-email@domain.com
+title: Cascading Treesheets
+email: eob@csail.mit.edu
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Cascading Treesheets (CTS) is an open source web language that does 
+  for web structure what CSS does for style. It allows you to slice, dice, and 
+  combine web content from different sources.
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://yourdomain.com" # the base hostname & protocol for your site
+url: "http://treesheets.org" # the base hostname & protocol for your site
 twitter_username: jekyllrb
 github_username:  jekyll
 
